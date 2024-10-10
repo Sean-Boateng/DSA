@@ -13,7 +13,6 @@
 # Recursion
 # print("starting now")
 
-
 # print (0)
 # print (1)
 # count = 2
@@ -34,10 +33,10 @@
 
 
 # Finding The nth Fibonacci Number Using Recursion
-def F(n):
-    if n <=1:
-        return n
-    else:
-        return(F(n-1) + F(n-2))
+# def F(n):
+#     if n <=1:
+#         return n
+#     else:
+#         return(F(n-1) + F(n-2))
 
-print(F(18))
+# print(F(18))
